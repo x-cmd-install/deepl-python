@@ -33,26 +33,26 @@ Total: **10,552** lines of code across **58** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.31.0` (2026-08-12)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-25
 
 ## Popularity
 
-- **Stars**: 1,337 · **Forks**: 94 · **Open issues**: 138 · **Contributors**: 17
+- **Stars**: 1,338 · **Forks**: 94 · **Open issues**: 138 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 9 · **Open PRs**: 2 · **Closed issues**: 88 · **Open issues**: 50 · **Commits**: 346
+- **Releases**: 38 · **Merged PRs**: 9 · **Open PRs**: 2 · **Closed issues**: 88 · **Open issues**: 50 · **Commits**: 347
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-27 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-28 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-30 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-04 | 13 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-28 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-29 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-31 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-05 | 13 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for deepl-python lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:39:49Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:53:37Z._
