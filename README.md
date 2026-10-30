@@ -14,11 +14,11 @@ x install deepl-python
 
 ## Code insight
 
-Total: **13,080** lines of code across **66** files in the top 5 languages.
+Total: **15,657** lines of code across **66** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 12,996 | 316 | 2,323 | 61 |
+| Python | 15,573 | 332 | 2,668 | 61 |
 | Toml | 70 | 8 | 16 | 2 |
 | Yaml | 11 | 0 | 0 | 1 |
 | Ini | 2 | 0 | 0 | 1 |
@@ -33,7 +33,7 @@ Total: **13,080** lines of code across **66** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.31.0` (2026-08-12)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **13,080** lines of code across **66** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 9 · **Open PRs**: 2 · **Closed issues**: 88 · **Open issues**: 50 · **Commits**: 361
+- **Releases**: 38 · **Merged PRs**: 9 · **Open PRs**: 2 · **Closed issues**: 88 · **Open issues**: 50 · **Commits**: 422
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-31 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-02 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-03 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-08 | 13 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-31 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-01 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-03 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-04 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-09 | 13 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for deepl-python lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:56:12Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:55:55Z._
