@@ -1,0 +1,127 @@
+about:
+  description: "Official Python library for the DeepL language translation API."
+  license: MIT
+  homepage: https://www.deepl.com
+  head: 154083c
+  archived: false
+  latestVersion: "v1.31.0"
+  latestRelease: "v1.31.0"
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T06:55:43Z
+timeline:
+  created: 2021-07-19
+  lastCommit: 2026-10-29
+  lastVersion: 2026-08-12
+  lastRelease: 2026-08-12
+  lastPrerelease: 
+popularity:
+  star: 1339
+  watcher: 23
+  fork: 94
+  release: 38
+  contributor: 17
+  pullRequest: 21
+  issue: 138
+language:
+  Python: 583480
+  JavaScript: 3900
+  Shell: 393
+totalBytes: 587773
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-08-31
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-08-01
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-05-03
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-11-04
+    release: 8
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-11-09
+    release: 13
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 38
+  mergedPR: 9
+  openPR: 2
+  closedIssue: 88
+  openIssue: 50
+  commit: 422
+---
+path: /home/runner/.x-repo/github.com/deeplcom/deepl-python
+collectedAt: 2026-10-30T06:55:46Z
+loc:
+  Python:
+    code: 15573
+    comments: 332
+    blanks: 2668
+    files: 61
+  Toml:
+    code: 70
+    comments: 8
+    blanks: 16
+    files: 2
+  Yaml:
+    code: 11
+    comments: 0
+    blanks: 0
+    files: 1
+  Ini:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Sh:
+    code: 1
+    comments: 4
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2059
+    blanks: 519
+    files: 10
+total:
+  code: 16153
+  comments: 2484
+  blanks: 3253
+  files: 76
+---
+
+---
