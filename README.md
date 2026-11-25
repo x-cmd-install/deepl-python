@@ -14,12 +14,12 @@ x install deepl-python
 
 ## Code insight
 
-Total: **16,271** lines of code across **66** files in the top 5 languages.
+Total: **16,309** lines of code across **66** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 16,187 | 355 | 2,819 | 61 |
-| Toml | 70 | 8 | 16 | 2 |
+| Python | 16,221 | 352 | 2,834 | 61 |
+| Toml | 74 | 6 | 16 | 2 |
 | Yaml | 11 | 0 | 0 | 1 |
 | Ini | 2 | 0 | 0 | 1 |
 | Sh | 1 | 4 | 2 | 1 |
@@ -32,27 +32,27 @@ Total: **16,271** lines of code across **66** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.33.0` (2026-11-02)
-- **Last commit**: 2026-11-06
+- **Latest**: `v2.0.0` (2026-11-24)
+- **Last commit**: 2026-11-24
 
 ## Popularity
 
-- **Stars**: 1,339 · **Forks**: 91 · **Open issues**: 138 · **Contributors**: 18
+- **Stars**: 1,340 · **Forks**: 91 · **Open issues**: 138 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 9 · **Open PRs**: 1 · **Closed issues**: 90 · **Open issues**: 48 · **Commits**: 463
+- **Releases**: 40 · **Merged PRs**: 9 · **Open PRs**: 1 · **Closed issues**: 90 · **Open issues**: 48 · **Commits**: 524
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-04 | 13 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-26 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-05 | 14 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for deepl-python lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:26:39Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:25:55Z._
