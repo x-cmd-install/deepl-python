@@ -37,7 +37,7 @@ Total: **16,309** lines of code across **66** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,340 · **Forks**: 91 · **Open issues**: 138 · **Contributors**: 18
+- **Stars**: 1,341 · **Forks**: 91 · **Open issues**: 138 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **16,309** lines of code across **66** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-29 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-30 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-05 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-27 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-06 | 14 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for deepl-python lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:25:55Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:26:17Z._
